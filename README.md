@@ -3,4 +3,4 @@ Esse projeto foi criado durante a "Jornada FullStack EBAC". Utilizando HTML, CSS
 
 ### Links Úteis:
 
-Link do projeto <a href="https://tiktok--jornada-d2776.firebaseapp.com/" target="_blank"> Clique aqui </a>
+Link do projeto Online - <a href="https://tiktok--jornada-d2776.firebaseapp.com/" target="_blank"> Clique aqui </a>
